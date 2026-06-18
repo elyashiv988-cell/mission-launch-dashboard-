@@ -24,9 +24,9 @@ total_fuel=int(total_fuel)
 total_fuel_after_mission=total_fuel-fuel_usage_for_mission
 print(f"total fuel after mission: {total_fuel_after_mission}")
 #namber 8
-time=input("in how many minutes does the mission start?")
+time=input("in how many minutes does the mission start ?")
 time=int(time)
 print(f"the mission starts in {time*60} secends")
 print(f"the mission starts in {time} minutes")
 print(f"the mission starts un {time/60} houres")
-
+# namber 9

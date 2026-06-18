@@ -1,1 +1,2 @@
 # mission-launch-dashboard-
+This project contains details of mission, calculation of: how much fuel will remain after the mission. the distance of all the way. time remaining to the start of the mission, at secouns minutes and hours. the calculationof distance at mails. the new agent's name. 

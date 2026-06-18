@@ -30,3 +30,10 @@ print(f"the mission starts in {time*60} secends")
 print(f"the mission starts in {time} minutes")
 print(f"the mission starts un {time/60} houres")
 # namber 9
+d_km= input("enter distance in k.m")
+d_km= int(d_km)
+mail= d_km/1.6
+print(f"the distance is {mail} mails")
+#namber 10
+new_agent_name=input("enter your agent name")
+print(f"agent A {agent_name} , agent B {new_agent_name}")
